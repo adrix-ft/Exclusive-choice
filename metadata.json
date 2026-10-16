@@ -1,0 +1,6 @@
+{
+  "name": "Expensive Choice",
+  "description": "Premium luxury watches and designer eyewear storefront with COD confirmation, live video calls, and brand collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
